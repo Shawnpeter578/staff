@@ -1,0 +1,27 @@
+{
+  "name": "staff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shawnpeter578/staff.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shawnpeter578/staff/issues"
+  },
+  "homepage": "https://github.com/Shawnpeter578/staff#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.106.1",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "ejs": "^5.0.2",
+    "express": "^5.2.1"
+  }
+}
